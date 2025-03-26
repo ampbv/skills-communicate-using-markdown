@@ -5,9 +5,12 @@ This is a river in Colombia
 
 ![this is a river in colombia](https://github.com/user-attachments/assets/a69858f3-16cd-4cd1-8dae-0c149ffa3b6d) 
 
-Things I did: edited text and added an image
 
+``` javascript
+var myVar = "Hello, world!";
+```
 
+Things I did: edited text, added an image, added a block of code
 
 
 
