@@ -1,12 +1,11 @@
 # This is a H1 header it is rather big
 ## This is a H2 header
-### This is a H3 header, more modest than the first one
+### This is a H3 header, smaller than the first one
+This is a river in Colombia
 
-These are my first changes to this page
+![this is a river in colombia](https://github.com/user-attachments/assets/a69858f3-16cd-4cd1-8dae-0c149ffa3b6d) 
 
-
-
-
+Things I did: edited text and added an image
 
 
 
