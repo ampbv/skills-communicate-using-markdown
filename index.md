@@ -11,12 +11,9 @@ var myVar = "Hello, world!";
 ```
 
 Things I did: edited text, added an image, added a block of code
-
-
-
-
-
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 
